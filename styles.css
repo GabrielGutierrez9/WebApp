@@ -1,0 +1,46 @@
+	.background_image { 
+				position: absolute;
+				height: 100%;
+				width: 100%;
+				z-index: 1; 
+			  }
+ 	.text { 	
+		position: absolute;
+		top: 10px;
+		left: 10px;	
+ 		font-family: arial, helvetica, sans-serif;
+		font-size: 20pt;
+		color: white;
+		z-index:2;
+	  }
+	.userName { 	
+		position: absolute;
+		top: 400px;
+		left: 400px;	
+ 		font-family: arial, helvetica, sans-serif;
+		font-size: 10pt;
+		color: white;
+		z-index:2;
+	  }
+	.passWord{ 	
+		position: absolute;
+		top: 450px;
+		left: 400px;	
+ 		font-family: arial, helvetica, sans-serif;
+		font-size: 10pt;
+		color: white;
+		z-index:2;
+	  }
+	.submit{ 	
+		position: absolute;
+		top: 500px;
+		left: 475px;	
+		z-index:2;
+	  }
+	.reset{ 	
+		position: absolute;
+		top: 500px;
+		left: 575px;	
+		z-index:2;
+	  }
+	
